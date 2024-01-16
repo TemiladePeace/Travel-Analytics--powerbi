@@ -1,4 +1,4 @@
-# PowerBI-projects
+# PowerBI-projects- Travel Analysis
 This is basically a travel survey data being visialized. 
 It contains details such as countries, gender, transport means etc
 report revealed that CANADA is the most preferrable country people will like to visit 
